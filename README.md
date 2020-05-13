@@ -1,4 +1,4 @@
-# homebridge-switchbot
+# homebridge-switchbot-plus
 
 A [Homebridge](https://github.com/nfarina/homebridge) plugin for [SwitchBot](https://www.switch-bot.com).
 
